@@ -6,6 +6,6 @@ Data Source: Lending Club (Consists the observations of all the loans issued fro
 
 Models:
 
-Logistic Regression: 98.28% Accuracy
-Random Forest: 97.35% Accuracy
-LightGBM: 98.89% Accuracy
+01) Logistic Regression: 98.28% Accuracy
+02) Random Forest: 97.35% Accuracy
+03) LightGBM: 98.89% Accuracy
